@@ -1,0 +1,14 @@
+torch
+openai
+dgl-cu110
+dgllife
+pysmiles
+scikit-learn
+networkx
+matplotlib
+scipy
+pandas
+pyyaml
+pubchempy
+tiktoken
+transformers

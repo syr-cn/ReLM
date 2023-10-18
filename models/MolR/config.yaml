@@ -1,0 +1,5 @@
+gnn: tag
+model_file: models/MolR/saved/tag_1024
+n_layer: 2
+dim: 1024
+feature_len: 55
