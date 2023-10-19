@@ -27,11 +27,10 @@ sh scripts/run_Rexgen40k.sh
 ## Citation
 ```latex
 @inproceedings{
-    anonymous2023relm,
+    ReLM,
     title={ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction},
     author={Yaorui Shi, An Zhang, Enzhi Zhang, Zhiyuan Liu, Xiang Wang},
     booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
-    year={2023},
-    url={https://openreview.net/forum?id=gJZqSRfV21}
+    year={2023}
 }
 ```
