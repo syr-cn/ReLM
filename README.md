@@ -1,6 +1,6 @@
 # ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction
 
-EMNLP 2023 \[[paper](https://openreview.net/forum?id=gJZqSRfV21)\]
+EMNLP 2023 \[[paper](https://arxiv.org/abs/2310.13590v1)\]
 
 Authors: Yaorui Shi, An Zhang, Enzhi Zhang, Zhiyuan Liu, Xiang Wang
 
