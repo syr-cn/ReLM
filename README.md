@@ -6,6 +6,8 @@ Authors: Yaorui Shi, An Zhang, Enzhi Zhang, Zhiyuan Liu, Xiang Wang
 
 This repository contains the official code impementation for the paper **ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction**.
 
+![Framework](framework.jpg)
+
 ## Installation
 
 ```bash
