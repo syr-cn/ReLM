@@ -30,9 +30,13 @@ sh scripts/run_Rexgen40k.sh
 ```latex
 @inproceedings{
     ReLM,
-    title={ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction},
-    author={Yaorui Shi, An Zhang, Enzhi Zhang, Zhiyuan Liu, Xiang Wang},
-    booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
-    year={2023}
+    title        = {{R}e{LM}: Leveraging Language Models for Enhanced Chemical Reaction Prediction},
+    author       = {Shi, Yaorui and Zhang, An and Zhang, Enzhi and Liu, Zhiyuan and Wang, Xiang},
+    booktitle    = {Findings of the Association for Computational Linguistics: {EMNLP}
+                  2023, Singapore, December 6-10, 2023},
+    pages        = {5506--5520},
+    publisher    = {Association for Computational Linguistics},
+    year         = {2023},
+    url          = {https://aclanthology.org/2023.findings-emnlp.366}
 }
 ```
